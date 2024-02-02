@@ -1,5 +1,5 @@
 # String slicing and operations on strings
-names = "Amar,Bises,Chandan"
+names = "Amar, Bises, Chandan"
 print(names[0:6])
 fruit = "Mango"
 fruitLength = len(fruit)
